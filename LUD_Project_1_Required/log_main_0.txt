@@ -1,0 +1,4 @@
+exp name: log, model name: MLP, epochs: 50, device: cuda:0, batch size: 64, lr: 1e-05, weight decay: 0.0001, random seed: 0
+Final Accuracy: 0.4219
+exp name: log, model name: MLP, epochs: 50, device: cuda:0, batch size: 64, lr: 1e-05, weight decay: 0.0001, random seed: 0
+Final Accuracy: 0.3693

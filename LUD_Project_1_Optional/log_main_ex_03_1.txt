@@ -1,0 +1,2 @@
+exp name: log, model name: CNN, epochs: 100, device: cuda:0, batch size: 64, lr: 0.0005, weight decay: 0.0001, random seed: 0
+Final Accuracy: 0.6656
